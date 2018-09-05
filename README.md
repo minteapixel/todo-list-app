@@ -1,0 +1,1 @@
+A simple to-do list web app. Built with JS/jQuery and CSS/HTML.
